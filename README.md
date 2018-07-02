@@ -6,6 +6,7 @@ REQUIREMENTS
 	qt5-default
 	sshpass
 	fping
+	PSSWDGenCon
 
 
 
