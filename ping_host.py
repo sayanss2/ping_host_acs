@@ -1,13 +1,5 @@
 #!/usr/bin/env python3.6
 """
-REQUIREMENTS
-	qt5-default
-	sshpass
-	fping
-	PSSWDGenCon 
-
-
-
 fping
 Output options:
    -a, --alive        show targets that are alive
